@@ -1,3 +1,15 @@
 body {
-    background-color: chartreuse;
+    background-color: cornsilk;
+}
+
+header {
+    border: 1px solid green;
+}
+
+main {
+    border: 1px dashed purple;
+}
+
+section {
+    border: 2px dashed blue;
 }
