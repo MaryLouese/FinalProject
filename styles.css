@@ -8,6 +8,26 @@ header {
     border: 1px solid green;
 }
 
+.global-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+}
+
+.container-navigation {
+    border: 1px dashed pink;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+button {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #cc16bd;
+}
+
+
+
 main {
     border: 1px dashed purple;
 }
@@ -20,6 +40,8 @@ footer {
 
 /* homepage style */
 
+
+
 section {
     border: 2px dashed blue;
 }
@@ -27,3 +49,11 @@ section {
 .homepageimage {
     width: 300px;
 }
+
+/* title styles */
+
+.page-title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* photo page styles */
