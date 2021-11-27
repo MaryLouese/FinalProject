@@ -46,7 +46,7 @@ section {
     border: 2px dashed blue;
 }
 
-.homepageimage {
+.moominimage {
     width: 600px;
 }
 
@@ -56,4 +56,10 @@ section {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-/* photo page styles */
+.moomin-section {
+    background-color: pink;
+}
+
+.pdf-section {
+    background-color: green;
+}
