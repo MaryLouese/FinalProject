@@ -46,8 +46,13 @@ section {
     border: 2px dashed blue;
 }
 
-.moominimage {
+.homepageimage {
     width: 600px;
+    
+}
+
+img {
+    border: 2px darkblue;
 }
 
 /* title styles */
@@ -62,4 +67,14 @@ section {
 
 .pdf-section {
     background-color: green;
+    
+
 }
+
+.pdf-container {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
